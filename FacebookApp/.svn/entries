@@ -1,0 +1,119 @@
+8
+
+dir
+169
+https://repo.cs.iastate.edu/coms309/20/FirebaseWorkingGreat3/FacebookApp
+https://repo.cs.iastate.edu/coms309/20
+
+
+
+2014-04-28T02:03:13.929829Z
+163
+kientn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+817968c2-256c-45f1-8ff6-e7619683c4bf
+
+.classpath
+file
+
+
+
+
+2014-04-28T03:06:47.000000Z
+c178afb36dad50cdbbba47d0e4dda6bd
+2014-04-28T02:03:13.929829Z
+163
+kientn
+
+.project
+file
+
+
+
+
+2014-04-28T03:06:47.000000Z
+0c86fe01295297e52eee9596a87da36f
+2014-04-28T02:03:13.929829Z
+163
+kientn
+
+AndroidManifest.xml
+file
+
+
+
+
+2014-04-28T03:06:47.000000Z
+a1596073bed9ce111acdae83e2bb6fd7
+2014-04-28T02:03:13.929829Z
+163
+kientn
+
+assets
+dir
+
+bin
+dir
+
+gen
+dir
+
+ic_launcher-web.png
+file
+
+
+
+
+2014-04-28T03:06:53.000000Z
+47f9ad9a48d1279cc7c2e403f7cdad3c
+2014-04-28T02:03:13.929829Z
+163
+kientn
+has-props
+
+libs
+dir
+
+proguard-project.txt
+file
+
+
+
+
+2014-04-28T03:06:47.000000Z
+18bfe77c342b4698f1cef19cf8d918e2
+2014-04-28T02:03:13.929829Z
+163
+kientn
+
+project.properties
+file
+
+
+
+
+2014-04-28T03:06:47.000000Z
+89eaf358aeeb94476507db5c4d08f0b1
+2014-04-28T02:03:13.929829Z
+163
+kientn
+
+res
+dir
+
+src
+dir
+

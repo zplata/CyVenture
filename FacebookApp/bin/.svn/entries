@@ -1,0 +1,112 @@
+8
+
+dir
+169
+https://repo.cs.iastate.edu/coms309/20/FirebaseWorkingGreat3/FacebookApp/bin
+https://repo.cs.iastate.edu/coms309/20
+
+
+
+2014-04-28T02:03:13.929829Z
+163
+kientn
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+817968c2-256c-45f1-8ff6-e7619683c4bf
+
+AndroidManifest.xml
+file
+
+
+
+
+2014-04-28T03:06:49.000000Z
+a1596073bed9ce111acdae83e2bb6fd7
+2014-04-28T02:03:13.929829Z
+163
+kientn
+
+FacebookApp.apk
+file
+
+
+
+
+2014-04-28T03:06:49.000000Z
+f806e4b3a3e6571943f968a9760b7089
+2014-04-28T02:03:13.929829Z
+163
+kientn
+has-props
+
+R.txt
+file
+
+
+
+
+2014-04-28T03:06:48.000000Z
+9a42c3a54b8943225ab292acf4d9fa1f
+2014-04-28T02:03:13.929829Z
+163
+kientn
+
+classes
+dir
+
+classes.dex
+file
+
+
+
+
+2014-04-28T03:06:50.000000Z
+1b54fe2156b2d2bfc9bbcb4a47ccdd67
+2014-04-28T02:03:13.929829Z
+163
+kientn
+has-props
+
+dexedLibs
+dir
+
+jarlist.cache
+file
+
+
+
+
+2014-04-28T03:06:49.000000Z
+1a4e54903cfe5b5bf05e60ce40d06671
+2014-04-28T02:03:13.929829Z
+163
+kientn
+
+res
+dir
+
+resources.ap_
+file
+
+
+
+
+2014-04-28T03:06:49.000000Z
+ea03b4cad3b097d7536095655d7e54dd
+2014-04-28T02:03:13.929829Z
+163
+kientn
+has-props
+

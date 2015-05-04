@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/invite_show_friend_list_to_pick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:text="Invite Friends"/>
+
+        <Button
+            android:id="@+id/cancel_show_friend_list_to_pick"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:text="Cancel"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listView_show_friend_list_to_pick"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </ListView>
+
+</LinearLayout>
